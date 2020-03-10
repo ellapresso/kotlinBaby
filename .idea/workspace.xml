@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafed822-5057-4e14-b359-74183a9fb7c6" name="Default Changelist" comment="" />
+    <list default="true" id="cafed822-5057-4e14-b359-74183a9fb7c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +32,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -67,22 +72,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="640" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583748365475" />
-    <state width="1358" height="245" key="GridCell.Tab.0.bottom" timestamp="1583750442764">
+    <state width="842" height="251" key="GridCell.Tab.0.bottom" timestamp="1583827792089">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583750442764" />
-    <state width="1358" height="245" key="GridCell.Tab.0.center" timestamp="1583750442762">
+    <state width="842" height="251" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583827792089" />
+    <state width="842" height="251" key="GridCell.Tab.0.center" timestamp="1583827792088">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583750442762" />
-    <state width="1358" height="245" key="GridCell.Tab.0.left" timestamp="1583750442762">
+    <state width="842" height="251" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583827792088" />
+    <state width="842" height="251" key="GridCell.Tab.0.left" timestamp="1583827792087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583750442762" />
-    <state width="1358" height="245" key="GridCell.Tab.0.right" timestamp="1583750442763">
+    <state width="842" height="251" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583827792087" />
+    <state width="842" height="251" key="GridCell.Tab.0.right" timestamp="1583827792088">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583750442763" />
+    <state width="842" height="251" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583827792088" />
+    <state x="410" y="100" key="SettingsEditor" timestamp="1583827080504">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="410" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583827080504" />
     <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1583825865101">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
