@@ -19,6 +19,38 @@ fun main(src:Array<String>) {
     var f = Cat("람다",2)
     f.introduce()
     f.meow()
+
+    var g = Tiger()
+    g.eat()
+
+    var h = Wind()
+    h.temperature()
+    h.clothe()
+}
+
+abstract class Weather {
+    abstract fun temperature()
+    fun clothe(){
+        println("옷을 입는댱")
+    }
+}
+
+class Wind : Weather(){
+    override fun temperature() {
+        println("바람이 분댜")
+    }
+}
+
+open class Animals {
+    open fun eat(){
+        println("음식을 먹는다")
+    }
+}
+
+class Tiger : Animals(){
+    override fun eat(){
+        println("고기를 먹는댜")
+    }
 }
 
 open class Animal (var name:String, var age:Int, var type:String){
