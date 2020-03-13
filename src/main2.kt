@@ -10,7 +10,13 @@ fun main(){
     val a = "aaa"
     println(a)
     B().print()
+
     b(::a)
+
+//    val c: (String)->Unit ={str->println("$str 람다 함수")}
+    //축약형
+    val c = {str:String->println("$str 람다함수")}
+    b(c)
 }
 
 fun a(str:String){

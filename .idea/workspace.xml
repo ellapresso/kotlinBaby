@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cafed822-5057-4e14-b359-74183a9fb7c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Animals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Tiger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Weather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Weather.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Wind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main2.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +34,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Kotlin.Main2Kt">
     <configuration name="Main2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -108,30 +101,30 @@
       <screen x="1792" y="-613" width="1920" height="1080" />
     </state>
     <state x="2216" y="-411" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584086953551" />
-    <state width="1060" height="204" key="GridCell.Tab.0.bottom" timestamp="1584091541430">
+    <state width="958" height="204" key="GridCell.Tab.0.bottom" timestamp="1584092605236">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1878" height="204" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651838" />
     <state width="842" height="251" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583836276723" />
-    <state width="1060" height="204" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541430" />
-    <state width="1060" height="204" key="GridCell.Tab.0.center" timestamp="1584091541428">
+    <state width="958" height="204" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584092605236" />
+    <state width="958" height="204" key="GridCell.Tab.0.center" timestamp="1584092605235">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1878" height="204" key="GridCell.Tab.0.center/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651836" />
     <state width="842" height="251" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583836276723" />
-    <state width="1060" height="204" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541428" />
-    <state width="1060" height="204" key="GridCell.Tab.0.left" timestamp="1584091541427">
+    <state width="958" height="204" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584092605235" />
+    <state width="958" height="204" key="GridCell.Tab.0.left" timestamp="1584092605234">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1878" height="204" key="GridCell.Tab.0.left/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651835" />
     <state width="842" height="251" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583836276722" />
-    <state width="1060" height="204" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541427" />
-    <state width="1060" height="204" key="GridCell.Tab.0.right" timestamp="1584091541429">
+    <state width="958" height="204" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584092605234" />
+    <state width="958" height="204" key="GridCell.Tab.0.right" timestamp="1584092605236">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1878" height="204" key="GridCell.Tab.0.right/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651837" />
     <state width="842" height="251" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583836276723" />
-    <state width="1060" height="204" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541429" />
+    <state width="958" height="204" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584092605236" />
     <state x="2339" y="-518" key="SettingsEditor" timestamp="1584083865280">
       <screen x="1792" y="-613" width="1920" height="1080" />
     </state>
