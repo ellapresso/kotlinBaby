@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cafed822-5057-4e14-b359-74183a9fb7c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/META-INF/helloWorld.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Weather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Weather.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Wind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/Wind.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,27 +40,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Main2Kt">
+    <configuration name="Main2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="helloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="Main2Kt" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="helloWorld" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.Main2Kt" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main2Kt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -68,33 +99,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="640" y="117" key="#Project_Structure" timestamp="1583748365475">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="2645" y="-473" key="#Project_Structure" timestamp="1584083805817">
+      <screen x="1792" y="-613" width="1920" height="1080" />
     </state>
     <state x="640" y="117" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583748365475" />
-    <state width="842" height="251" key="GridCell.Tab.0.bottom" timestamp="1583836276723">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="2645" y="-473" key="#Project_Structure/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584083805817" />
+    <state x="2216" y="-411" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584086953551">
+      <screen x="1792" y="-613" width="1920" height="1080" />
     </state>
+    <state x="2216" y="-411" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584086953551" />
+    <state width="1060" height="204" key="GridCell.Tab.0.bottom" timestamp="1584091541430">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.bottom/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651838" />
     <state width="842" height="251" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583836276723" />
-    <state width="842" height="251" key="GridCell.Tab.0.center" timestamp="1583836276723">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1060" height="204" key="GridCell.Tab.0.bottom/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541430" />
+    <state width="1060" height="204" key="GridCell.Tab.0.center" timestamp="1584091541428">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.center/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651836" />
     <state width="842" height="251" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583836276723" />
-    <state width="842" height="251" key="GridCell.Tab.0.left" timestamp="1583836276722">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1060" height="204" key="GridCell.Tab.0.center/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541428" />
+    <state width="1060" height="204" key="GridCell.Tab.0.left" timestamp="1584091541427">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.left/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651835" />
     <state width="842" height="251" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583836276722" />
-    <state width="842" height="251" key="GridCell.Tab.0.right" timestamp="1583836276723">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1060" height="204" key="GridCell.Tab.0.left/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541427" />
+    <state width="1060" height="204" key="GridCell.Tab.0.right" timestamp="1584091541429">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state width="1878" height="204" key="GridCell.Tab.0.right/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584087651837" />
     <state width="842" height="251" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583836276723" />
-    <state x="410" y="100" key="SettingsEditor" timestamp="1583827080504">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1060" height="204" key="GridCell.Tab.0.right/0.23.1792.1097/1792.-613.1920.1080@0.23.1792.1097" timestamp="1584091541429" />
+    <state x="2339" y="-518" key="SettingsEditor" timestamp="1584083865280">
+      <screen x="1792" y="-613" width="1920" height="1080" />
     </state>
+    <state x="2339" y="-518" key="SettingsEditor/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584083865280" />
     <state x="410" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583827080504" />
     <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1583825865101">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583825865101" />
+    <state x="2432" y="-316" width="639" height="486" key="find.popup" timestamp="1584084115645">
+      <screen x="1792" y="-613" width="1920" height="1080" />
+    </state>
+    <state x="2432" y="-316" width="639" height="486" key="find.popup/0.0.1792.1120/1792.-613.1920.1080@1792.-613.1920.1080" timestamp="1584084115645" />
   </component>
 </project>
